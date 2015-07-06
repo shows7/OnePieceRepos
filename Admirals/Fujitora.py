@@ -1,0 +1,1 @@
+print 'Im blind so I can\'t see anything.'
